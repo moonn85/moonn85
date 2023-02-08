@@ -1,16 +1,38 @@
-### Hi there 👋
 
-<!--
-**moonn85/moonn85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif" align="center" style="width: 100%" />
+</div>  
 
-Here are some ideas to get you started:
+## <div align="center">About me</div>  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <div align="center">🔭 My name is Vũ Anh Tuán</div>  
+  
+- <div align="center">🏫I am studying at ThuyLoi University</div>  
+  
+- <div align="center">😚I love programming </div>  
+  
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+web+developer;I+want+to+be+a+android+app+developer)](https://github.com/n0xgg04)
+
+ </div>  
+
+## Languages 📖  
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,cpp,c,mysql,python&perline=6)]()
+
+</br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0xgg04&layout=compact)](https://github.com/n0xgg04/github-readme-stats)
+
+</div>
+<img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/w8ZJLtJbmuph.gif" alt="TuanAnh"/>
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=n0xgg04&style=for-the-badge)
+
+</div>
