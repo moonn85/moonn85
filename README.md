@@ -10,7 +10,7 @@
   
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=\Tôi+muốn+trở+thành+một+lập+trình+viên)](https://github.com/n0xgg04)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tôi+muốn+trở+thành+một+lập+trình+viên)](https://github.com/moonn85)
 
  </div>  
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,c,mysql,python&perline=6)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,c,java,python&perline=6)]()
 
 </br>
 </div>
