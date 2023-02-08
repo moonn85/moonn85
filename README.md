@@ -1,8 +1,5 @@
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif" align="center" style="width: 100%" />
-</div>  
-
 ## <div align="center">About me</div>  
   
 
