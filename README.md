@@ -2,7 +2,7 @@
 ## <div align="center">About me</div>  
   
 
-- <div align="center">🔭 My name is Vũ Anh Tuán</div>  
+- <div align="center">🔭 My name is Vũ Anh Tuấn</div>  
   
 - <div align="center">🏫I am studying at ThuyLoi University</div>  
   
@@ -10,7 +10,7 @@
   
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+web+developer;I+want+to+be+a+android+app+developer)](https://github.com/n0xgg04)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=\Tôi+muốn+trở+thành+một+lập+trình+viên)](https://github.com/n0xgg04)
 
  </div>  
 
