@@ -13,7 +13,7 @@
   
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tôi+muốn+trở+thành+một+lập+trình+viên+ )](https://github.com/moonn85)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I want to change the world, give me the source code )](https://github.com/moonn85)
 
  </div>  
 
