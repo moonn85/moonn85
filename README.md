@@ -2,12 +2,12 @@
   <img src="moonn85.svg" width="1200" alt="moonn85" />
 </a>
 
-## <div align="center"> About me</div>  
+## <div align="center">About me </div>  
   
 
-- <div align="center">🔭 My name is Vũ Anh Tuấn</div>  
+- <div align="center">🔭 My name is Vũ Anh Tuấn </div>  
    
-- <div align="center">🏫I am studying at ThuyLoi University</div>  
+- <div align="center">🏫I am studying at ThuyLoi University </div>  
   
 - <div align="center">😚I love programming </div>  
   
