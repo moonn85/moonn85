@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,c,java,python,wordpress,vscode,stackoverflow,ps&perline=10)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,c,java,python,wordpress,vscode,stackoverflow,ps,github&perline=11)]()
 
 </br>
 </div>
