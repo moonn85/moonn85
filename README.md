@@ -17,7 +17,7 @@
 
  </div>  
 
-## 📖Languages 
+## 📖Languages and Tools
 
 <div align="center">
 
