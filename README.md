@@ -23,6 +23,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,cpp,c,java,python,wordpress,vscode,stackoverflow,ps,github&perline=11)]()
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonn85&layout=compact)](https://github.com/moonn85/github-readme-stats)
+
+</div>
+
+
 </br>
 </div>
 
