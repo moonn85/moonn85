@@ -14,7 +14,7 @@
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+web+developer;I+want+to+be+a+android+app+developer)](https://github.com/moonn85)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+web+developer;I+want+to+be+a+fullstask+developer)](https://github.com/moonn85)
 
  </div>  
 
