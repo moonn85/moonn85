@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,c,cs,java,python,wordpress,vscode,stackoverflow,ps,github&perline=12)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,c,cs,java,python,wordpress,vscode,stackoverflow,ps,github&perline=13)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonn85&layout=compact)](https://github.com/moonn85/github-readme-stats)
 
