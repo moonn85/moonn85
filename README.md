@@ -24,13 +24,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,cpp,c,cs,java,python,go,wordpress,vscode,stackoverflow,ps,github&perline=18)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonn85&layout=compact)](https://github.com/moonn85/github-readme-stats)
-<img align="right" src="https://github.com/moonn85/moonn85/blob/main/292f0f5c-d931-42ea-809c-0a79c1da9457_kazuha-bun-sample.gif" />
+<div style="margin-bottom: 20px;"><img align="right" src="https://github.com/moonn85/moonn85/blob/main/292f0f5c-d931-42ea-809c-0a79c1da9457_kazuha-bun-sample.gif" /> </div>
 
 
 </div>
 </br>
 </div>
-<div style="margin-bottom: 20px;"></div> 
+
 ## 🏆GitHub Trophies
 <div align="center">
   
