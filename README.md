@@ -17,6 +17,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+web+developer;I+want+to+be+a+fullstask+developer)](https://github.com/moonn85)
 
  </div>  
+<div style="margin-top: 100px;"><img align="right" src="https://github.com/moonn85/moonn85/blob/main/292f0f5c-d931-42ea-809c-0a79c1da9457_kazuha-bun-sample.gif" /> </div>
 
 ## 📖Languages and Tools
 
@@ -24,7 +25,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,cpp,c,cs,java,python,go,wordpress,vscode,stackoverflow,ps,github&perline=18)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonn85&layout=compact)](https://github.com/moonn85/github-readme-stats)
-<div style="margin-top: 100px;"><img align="right" src="https://github.com/moonn85/moonn85/blob/main/292f0f5c-d931-42ea-809c-0a79c1da9457_kazuha-bun-sample.gif" /> </div>
 
 
 </div>
