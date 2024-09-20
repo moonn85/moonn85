@@ -24,7 +24,6 @@
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,cpp,c,cs,java,python,go,wordpress,vscode,stackoverflow,ps,github&perline=18)]()
-<div style="margin-bottom: 20px;"></div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonn85&layout=compact)](https://github.com/moonn85/github-readme-stats)
 
 
