@@ -28,9 +28,10 @@
 <img align="right" src="https://github.com/moonn85/moonn85/blob/main/292f0f5c-d931-42ea-809c-0a79c1da9457_kazuha-bun-sample.gif" />
 
 </div>
-</br>
+
 </div>
 
+</br>
 ## 🏆GitHub Trophies
 <div align="center">
   
