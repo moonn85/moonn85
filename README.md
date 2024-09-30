@@ -23,7 +23,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,cpp,c,cs,java,python,go,php,mysql,wordpress,docker,postman,rocket,flask,laravel,linux,ubuntu,vscode,stackoverflow,ps,git&perline=7)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,cpp,c,cs,java,python,go,php,mysql,wordpress,docker,postman,rocket,flask,laravel,linux,ubuntu,vscode,stackoverflow,ps,git&perline=7)]()
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonn85&layout=compact)](https://github.com/moonn85/github-readme-stats)
 
